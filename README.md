@@ -1,4 +1,4 @@
-Hi, I'm Eryn! I currently work as a Systems Engineer at [Uplift Games](https://uplift.games). I work on a lot of different things, including developer tooling, our websites, and adding systems into *Adopt Me*, our main game with over 60M monthly active users!
+Hi, I'm Eryn! I work on a lot of different things, including developer tooling, libraries, websites, and games!
 
 I'm a self-taught engineer with a passion for learning new things. I love going down the rabbit hole of learning the ins and outs of something that's new and exciting, and taking that experience with me onto the next thing. I also love teaching and helping other engineers with any problems they might have!
 
